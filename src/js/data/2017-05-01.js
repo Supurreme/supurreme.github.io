@@ -6,6 +6,8 @@ dataSet[dataSetVersion].options = [
 
 
 dataSet[dataSetVersion].characterData = [
+
+  	  //odd-eyed girls
   {
     name: "Mimi Hideyoshi",
     img: "FqvBj6j.png",
@@ -30,6 +32,13 @@ dataSet[dataSetVersion].characterData = [
     {
     name: "Miyuki Miura",
     img: "kHAgDDd.png",
+    opts: {
+      series: [""],
+    }
+  },
+      {
+    name: "Lunaria Ito",
+    img: "JF5qveI.png",
     opts: {
       series: [""],
     }
