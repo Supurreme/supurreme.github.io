@@ -43,4 +43,34 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+  
+  	  //tri boys
+  {
+    name: "Koto Katayama",
+    img: "OF3XZSm.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Koji Kurihara",
+    img: "c92p1tZ.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Koiichi Hoshino",
+    img: "p96iAmV.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Kohaku Kodo",
+    img: "UVlxYdS.png",
+    opts: {
+      series: [""],
+    }
+  },
 ];
