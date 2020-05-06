@@ -173,4 +173,40 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+    //moon clip
+  {
+    name: "Tsukiko Kita",
+    img: "iXnJuO5.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Tsumiki Honda",
+    img: "0z5jcfu.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Tsuru Nakamura",
+    img: "gXDn5tl.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Tsubame Yamada",
+    img: "UtWgiZY.png",
+    opts: {
+      series: [""],
+    }
+  },
+      {
+    name: "Erika Sasaki",
+    img: "FQ8XXRL.png",
+    opts: {
+      series: [""],
+    }
+  },
 ];
