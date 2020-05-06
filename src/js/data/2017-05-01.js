@@ -72,4 +72,33 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+  //tri girls
+  {
+    name: "Koko Katayama",
+    img: "GcJwcm3.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Konomi Kurihara",
+    img: "2MIMwxw.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Kotone Hoshino",
+    img: "jLJDUVE.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Koharu Kodo",
+    img: "Jz5J0dX.png",
+    opts: {
+      series: [""],
+    }
+  },
 ];
