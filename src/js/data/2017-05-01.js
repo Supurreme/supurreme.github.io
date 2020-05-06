@@ -43,7 +43,7 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
-  	  //tri boys
+  //tri boys
   {
     name: "Koto Katayama",
     img: "OF3XZSm.png",
