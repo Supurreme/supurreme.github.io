@@ -274,4 +274,40 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+    //etc
+  {
+    name: "Oscar Eduard Baines",
+    img: "9elDlmV.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Sarah Cornell-Baines",
+    img: "gCiYOJe.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Adam Mallson",
+    img: "NeVbDS2.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Raymond Deadman",
+    img: "IEyeM0P.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Shane Eldridge",
+    img: "stlR9k5",
+    opts: {
+      series: [""],
+    }
+  },
 ];
