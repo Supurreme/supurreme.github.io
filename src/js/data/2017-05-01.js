@@ -101,4 +101,40 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+  //star charms
+  {
+    name: "Seiko Oshiro",
+    img: "PLTggRp.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Seiichi Arimoto",
+    img: "2MIMwxw.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Seki Ueda",
+    img: "aIwoZcE.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Seina Sumida",
+    img: "KQECjvE.png",
+    opts: {
+      series: [""],
+    }
+  },
+      {
+    name: "Tsubaki Saito",
+    img: "lVBNVEp.png",
+    opts: {
+      series: [""],
+    }
+  },
 ];
