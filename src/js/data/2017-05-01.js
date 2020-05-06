@@ -111,7 +111,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Seiichi Arimoto",
-    img: "2MIMwxw.png",
+    img: "glJct0N.png",
     opts: {
       series: [""],
     }
