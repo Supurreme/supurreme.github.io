@@ -8,10 +8,6 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Mimi Hideyoshi",
     img: "c5DqpgX.png",
-    opts: {
-      series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
-      stage: ["st4"]
-    }
   },
   {
     name: "Mika Matsuoka",
