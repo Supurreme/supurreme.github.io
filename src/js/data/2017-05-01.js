@@ -305,7 +305,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Shane Eldridge",
-    img: "stlR9k5",
+    img: "stlR9k5.png",
     opts: {
       series: [""],
     }
