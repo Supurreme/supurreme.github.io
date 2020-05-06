@@ -137,4 +137,40 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+  //cmyk
+  {
+    name: "Madison Vorbes",
+    img: "K87c8IT.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Mai Valerio",
+    img: "UpTz01C.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Mariko Takeshita",
+    img: "kLNJDhJ.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Maki Fujita",
+    img: "pkmtZoN.png",
+    opts: {
+      series: [""],
+    }
+  },
+      {
+    name: "Tsutsuji Ashida",
+    img: "wd8OddZ.png",
+    opts: {
+      series: [""],
+    }
+  },
 ];
