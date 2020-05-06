@@ -209,4 +209,40 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+    //bird necklace
+  {
+    name: "Kujaku Sugomoru",
+    img: "OC49xBf.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Hachidori Tachibana",
+    img: "g9Qr13Q.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Omu Tsukino",
+    img: "Wrs8ESF.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Kijishi Ida",
+    img: "bHz3NQe.png",
+    opts: {
+      series: [""],
+    }
+  },
+      {
+    name: "Shion Tsukuda",
+    img: "QlCNB5R.png",
+    opts: {
+      series: [""],
+    }
+  },
 ];
