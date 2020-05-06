@@ -245,4 +245,33 @@ dataSet[dataSetVersion].characterData = [
       series: [""],
     }
   },
+    //hourglass pendant
+  {
+    name: "Asahi Tenmei",
+    img: "O1TjAKI.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Nikko Aramaki",
+    img: "hc8fipC.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Rumi Hoshiki",
+    img: "3EAhsLJ.png",
+    opts: {
+      series: [""],
+    }
+  },
+    {
+    name: "Yuhi Nichibotsu",
+    img: "gRAMmtG.png",
+    opts: {
+      series: [""],
+    }
+  },
 ];
