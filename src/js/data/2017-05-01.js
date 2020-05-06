@@ -22,7 +22,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mika Matsuoka",
     img: "c5DqpgX.png",
     opts: {
-      series: ["re"],
+      series: [""],
     }
   },
     {
@@ -36,7 +36,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Miyuki Miura",
     img: "c5DqpgX.png",
     opts: {
-      series: ["re"],
+      series: [""],
     }
   },
 ];
