@@ -15,21 +15,21 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Mika Matsuoka",
-    img: "c5DqpgX.png",
+    img: "4vaLAcX.png",
     opts: {
       series: [""],
     }
   },
     {
     name: "Minori Fukui",
-    img: "c5DqpgX.png",
+    img: "9GftJVF.png",
     opts: {
       series: [""],
     }
   },
     {
     name: "Miyuki Miura",
-    img: "c5DqpgX.png",
+    img: "kHAgDDd.png",
     opts: {
       series: [""],
     }
