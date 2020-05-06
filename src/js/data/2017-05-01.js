@@ -6,7 +6,6 @@ dataSet[dataSetVersion].options = [
     name: "Redesigned Characters Only",
     key: "re",
     tooltip: "Check this to exclude characters who are not yet redesigned.",
-    checked: false,
   },
 ];
 
