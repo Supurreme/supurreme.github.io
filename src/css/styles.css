@@ -111,8 +111,8 @@ body {
 }
 
 .sorter > .image {
-  width: 950px;
-  height: 1004px;
+  width: 120px;
+  height: 180px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
@@ -171,7 +171,8 @@ label:hover {
 
 .image.selector {
   margin-top: 0.5em;
-  width: 500px;
+  width: 472px;
+  height: 502px;
   display: none;
   text-align: center;
   font-size: 0.75em;
