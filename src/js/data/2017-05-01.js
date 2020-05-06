@@ -32,7 +32,7 @@ dataSet[dataSetVersion].characterData = [
     opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
   },
   {
-    name: "Cirno",
+    name: "Lunaria Ito",
     img: "qdveFSy.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
@@ -41,17 +41,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hong Meiling",
+    name: "Koto Katayama",
     img: "ptGp0x4.png",
     opts: { series: ["book", "EoSD", "IaMP", "StB", "Soku"], stage: ["st3"] }
   },
   {
-    name: "Koakuma",
+    name: "Koji Kurihara",
     img: "vBKdDm4.png",
     opts: { series: ["book", "EoSD"], stage: ["st4"] }
   },
   {
-    name: "Patchouli Knowledge",
+    name: "Koiichi Hoshino",
     img: "A7ZnuHo.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
@@ -59,7 +59,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Izayoi Sakuya",
+    name: "Kohaku Kodo",
     img: "sgZPf11.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "HM", "DDC", "ISC"
@@ -68,25 +68,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Remilia Scarlet",
-    img: "8UX7hKE.png",
-    opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "MoF", "Soku", "HM", "ISC"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Flandre Scarlet",
+    name: "Koko Katayama",
     img: "OhaDcnc.png",
     opts: { series: ["book", "EoSD", "StB"], stage: ["ex"] }
   },
   {
-    name: "Letty Whiterock",
+    name: "Konomi Kurihara",
     img: "MgzqjFK.png",
     opts: { series: ["book", "PCB", "StB", "HM"], stage: ["st1"] }
   },
   {
-    name: "Chen",
+    name: "Kotone Hoshino",
     img: "ohmetZh.png",
     opts: {
       series: ["book", "PCB", "IaMP", "StB", "MoF", "Soku", "HM"],
@@ -94,7 +86,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Alice Margatroid",
+    name: "Koharu Kodo",
     img: "aDIf0pN.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],
