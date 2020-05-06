@@ -8,7 +8,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Mimi Hideyoshi",
-    img: "c5DqpgX.png",
+    img: "9Mq9qGV.png",
     opts: {
       series: [""],
     }
